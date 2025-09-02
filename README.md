@@ -1,4 +1,4 @@
-# the-forge
+# TheForge
 
 Artist-driven quest items, 3D modeled for you!
 
@@ -12,5 +12,5 @@ People will be able to buy the resulting NFT quest item using $FORGE tokens. The
 
 To support this project, feel free to donate $AVAX to: 0xAe68f894965866b8Bc95f7603Ba7029884E1B6Be
 
-First draft of logo (made with ChatGPT):
-![the forge logo](https://github.com/user-attachments/assets/467e69f7-abb3-40da-bd96-a654ddfb0420)
+Logo made with Gemini:
+<img width="2048" height="2048" alt="Gemini_Generated_Image_ydbap5ydbap5ydba" src="https://github.com/user-attachments/assets/3ce6671c-36e2-47c2-bfb0-f819e86a4262" />
